@@ -1,0 +1,17 @@
+Attention Is All You Need
+Three Models For The Description Of Language
+Communication Theory of Secrecy Systems
+A Mathematical Theory of Communication
+A Symbolic Analysis of Relay and Switching Circuits
+Computing Machinery and Intelligence
+New Directions in Cryptography
+A Few Useful Things to Know About Machine Learning
+Theory of self-reproducing automata
+First Draft of a Report on the EDVAC
+Steps Toward Artificial Intelligence
+Programs with Common Sense
+A note on two problems in connexion with graphs
+Go To Statement Considered Harmful
+Dynamic Hash Tables
+The Art of Computer Programming.
+Finite Automata and Their Decision Problem
