@@ -7,8 +7,8 @@ Minha chave da API foi enviado nos comentários do ava, para vcs testarem
 
 ## Execução
 
-´´´pip install networkx´´´
-´´´pip install matplotlib´´´
-´´´pip install requests´´´
-´´´python Auxiliar_de_analise_literária.py´´´
+```pip install networkx```
+```pip install matplotlib```
+```pip install requests```
+```python Auxiliar_de_analise_literária.py```
 
