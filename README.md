@@ -3,7 +3,7 @@ Auxiliar de analise literária: uma abordagem simples
 
 Link para o (colab)[https://colab.research.google.com/drive/1roSQ94n9AS5t__hcb_VXJhhEPYU3M312?usp=sharing]
 
-Minha chave da API foi enviado nos comentários do ava, para vcs testarem
+Minha chave da API foi enviada nos comentários do AVA, para Vocês testarem
 
 ## Execução
 
